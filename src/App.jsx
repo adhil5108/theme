@@ -20,8 +20,7 @@ return(
   <h1>Click it</h1>
   <button onClick={se}>change theme</button>
   </div>
-  
-  </>
+   </>
 )
 }
 
